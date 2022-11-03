@@ -49,8 +49,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/xianzhe_xx' // ig
-global.sgh = 'https://github.com/xianzheid/' // github
+global.sig = 'https://instagram.com/_pahilz26' // ig
+global.sgh = 'https://github.com/amelcanss' // github
 global.sgc = 'https://chat.whatsapp.com/HP5Pbp9MT0eIaC5lfJgw9A' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://youtube.com/channel/UCZr8qo58_6ZNhvt5pYVox9Al' // my youtube channel
@@ -58,23 +58,23 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://youtube.com/channel/UCZr8qo58_6ZNhvt5pYVox9Al'' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '+62 853-2678-1097' //dana
-global.povo = '+62 853-2678-1097' //ovo
-global.pgopay = '+62 853-2678-1097' //gopay
+global.pdana = '6287833306677' //dana
+global.povo = '-' //ovo
+global.pgopay = '+-' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '+62 853-2678-1097' //telkomsel
-global.ppulsa2 = '+62 853-5880-5324' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/xianzhe'
+global.ppulsa = '6287833306677' //xl
+global.ppulsa2 = '6287833306677' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/amelcanss'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285358805324'
-global.nomorown = '6285326781097'
-global.namebot = 'Xia Feixuan-V4'
-global.nameown = 'Xianzhe ID'
+global.nomorbot = '1(641)9545802'
+global.nomorown = '6287833306677'
+global.namebot = 'Fahil-Botz V2'
+global.nameown = 'Fahil'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'XianzheID' // nama github lu
-global.linkgithub = 'https://github.com/xianzheid' // tarok link github lu
+global.namagithub = 'amelcanss' // nama github lu
+global.linkgithub = 'https://github.com/amelcanss' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285326781097', 'Xianzhe ID', true],
-  ['6285358805324', 'Xia Feixuan', true],
+  ['6287833306677', 'Fahil', true],
+  ['6287852161042', 'Fahil-Botz', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 Xia Feixuan-V4 」' //Main Watermark
+global.wm = '「 Fahil-Botz V2 」' //Main Watermark
 global.wm2 =  ' '
 global.wm3 = '/nhttps://instagram.com/xianzhe_xx/n'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Xianzhe ID`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '©Xianzhe ID'
+global.author = '©Fahil'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -435,7 +435,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Creator '
-global.stickauth = `©Xianzhe ID`
+global.stickauth = `By Fahil`
 
 global.multiplier = 30 // The higher, The harder levelup
 
