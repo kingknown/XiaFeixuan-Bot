@@ -58,19 +58,19 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://youtube.com/channel/UCZr8qo58_6ZNhvt5pYVox9Al'' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '6287833306677' //dana
+global.pdana = '-' //dana
 global.povo = '-' //ovo
 global.pgopay = '+-' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '6287833306677' //xl
-global.ppulsa2 = '6287833306677' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/amelcanss'
+global.ppulsa = '-' //xl
+global.ppulsa2 = '-' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '1(641)9545802'
-global.nomorown = '6287833306677'
-global.namebot = 'Fahil-Botz V2'
-global.nameown = 'Fahil'
+global.nomorbot = '62857973750143'
+global.nomorown = '6285797375014'
+global.namebot = 'kingmon'
+global.nameown = 'king'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'amelcanss' // nama github lu
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', 'Fahil', true],
-  ['6287852161042', 'Fahil-Botz', true],
+  ['6285797375014', 'king', true],
+  ['62857973750143', 'King-Botz', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 Fahil-Botz V2 」' //Main Watermark
+global.wm = '「 King-Botz 」' //Main Watermark
 global.wm2 =  ' '
 global.wm3 = '/nhttps://instagram.com/xianzhe_xx/n'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Xianzhe ID`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '©Fahil'
+global.author = '©King'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -435,7 +435,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Creator '
-global.stickauth = `By Fahil`
+global.stickauth = `By King`
 
 global.multiplier = 30 // The higher, The harder levelup
 
